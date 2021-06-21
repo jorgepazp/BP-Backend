@@ -34,6 +34,7 @@ $ npm install
 
 ## Running the app
 
+first run the app
 ```bash
 # development
 $ npm run start
@@ -44,6 +45,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+enter to http://localhost:3000/api to see docs
 
 ## Test
 
